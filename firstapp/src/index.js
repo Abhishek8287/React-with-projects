@@ -1,9 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import App from "./App.js";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
-  <>
-    <h1>Hii this is my first rect app</h1>
-  </>
-);
+root.render(<App />);
