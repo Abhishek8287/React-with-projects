@@ -4,7 +4,7 @@ function Header() {
   return (
     <>
       <nav>
-        <h1>Logo..</h1>
+        <h1>Acexs..</h1>
         <main>
           <Link to={"/home"}>Home</Link>
           <Link to={"/about"}>About</Link>
